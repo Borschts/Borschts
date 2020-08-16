@@ -1,6 +1,6 @@
 ### About me
 
-Hi, I'm a programming newbie from 🇭🇰Hong Kong, I'm currently learning Python, HTML, JavaScript, etc. I've written a few Telegram robots and running them in various groups.
+Hi, I'm a programming newbie from HongKong, I'm currently learning Python, HTML, JavaScript, etc. I've written a few Telegram robots and running them in various groups.
 
 I also assist with the translation of some projects into **Traditional Chinese**.
 
