@@ -12,4 +12,4 @@ I also assist with the translation of some projects into **Traditional Chinese**
 
 ### Contact me
 
-- [Telegram](https://t.me/Shinomiya_Kaguya_TG)
+- [Telegram](https://t.me/Morishima_Hodaka_TG)
