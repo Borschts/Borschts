@@ -3,6 +3,10 @@
 Hi, I'm a programming newbie from HongKong, I'm currently learning Python, HTML, JavaScript, etc. I've written a few Telegram robots and running them in various groups.
 
 I also assist with the translation of some projects into **Traditional Chinese**.
+![Prettier](https://img.shields.io/badge/-Prettier-%23142027?style=for-the-badge&logo=prettier)
+![Rollup](https://img.shields.io/badge/-Rollup.js-%23434343?style=for-the-badge&logo=rollup.js)
+![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
+![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Borschts)
 
