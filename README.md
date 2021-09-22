@@ -17,4 +17,4 @@ I also assist with the translation of some projects into **Traditional Chinese**
 [![GitHub followers](https://img.shields.io/github/followers/Borschts?style=for-the-badge&color=blue)](https://github.com/Borschts?tab=followers)
 ### Contact me
 
-- [Telegram](https://t.me/Morishima_Hodaka_TG)
+- [Telegram](https://t.me/Pepper_AI)
