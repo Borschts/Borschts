@@ -18,3 +18,4 @@ I also assist with the translation of some projects into **Traditional Chinese**
 ### Contact me
 
 - [Telegram](https://t.me/Pepper_AI)
+- [Ask me](https://github.com/Borschts/Ask-Me/discussions)
