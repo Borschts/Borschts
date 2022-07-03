@@ -1,9 +1,5 @@
 ### About me
 
-I'm currently learning Python, HTML, JavaScript. I've written a few Telegram robots and running them in various groups.
-
-I also assist with the translation of some projects into **Traditional Chinese**.
-
 ![Prettier](https://img.shields.io/badge/-Prettier-%23142027?style=for-the-badge&logo=prettier)
 ![Rollup](https://img.shields.io/badge/-Rollup.js-%23434343?style=for-the-badge&logo=rollup.js)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
